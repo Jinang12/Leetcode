@@ -2,7 +2,6 @@ import java.util.*;
 public class Solution{
     public static int[] selectionSort(int nums[]){
         for(int i=0;i<nums.length;i++){
-                int max=Math.max(0,nums[nums.length-1-i]);
                 int maxIndex=0;
                 for(int j=1;j<nums.length-i;j++){
                     if(nums[j]> nums[maxIndex]){
