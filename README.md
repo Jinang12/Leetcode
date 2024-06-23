@@ -8,24 +8,25 @@ The repository is organized into categories as follows:
 leetcode/
 │
 ├── arrays/
-│ ├── ProblemName1/
-│ │ └── Solution.java
-│ └── ProblemName2/
-│ └── Solution.java
+│   ├── ProblemName1/
+│   │   └── Solution.java
+│   └── ProblemName2/
+│       └── Solution.java
 │
 ├── strings/
-│ ├── ProblemName1/
-│ │ └── Solution.java
-│ └── ProblemName2/
-│ └── Solution.java
+│   ├── ProblemName1/
+│   │   └── Solution.java
+│   └── ProblemName2/
+│       └── Solution.java
 │
 ├── sorting/
-│ ├── ProblemName1/
-│ │ └── Solution.java
-│ └── ProblemName2/
-│ └── Solution.java
+│   ├── ProblemName1/
+│   │   └── Solution.java
+│   └── ProblemName2/
+│       └── Solution.java
 │
 └── README.md
+
 
 ##Contributing
 Contributions are welcome! If you have a better solution or an additional solution in a different language, feel free to create a pull request. Please ensure your code is well-documented and follows the existing structure of the repository.
